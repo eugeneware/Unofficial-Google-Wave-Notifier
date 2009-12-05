@@ -28,7 +28,8 @@ module GoogleWave
       end
 
       def url
-        "https://wave.google.com/wave/#restored:wave:" + self.wave_id.sub("+", "%252B")
+		# "https://wave.google.com/wave/#restored:wave:" + self.wave_id.sub("+", "%252B")
+        "wave:" + self.wave_id.sub("+", "%252B")
       end
 
       def title

@@ -22,13 +22,13 @@
 	<string>0.4.3</string>
 	<key>LSUIElement</key>
 	<true/>
-	<key>SUPublicDSAKeyFile</key>
-	<string>dsa_pub.pem</string>
-	<key>SUFeedURL</key>
-	<string>http://github.com/hiroshi/Unofficial-Google-Wave-Notifier/raw/master/Sparkle/appcast.xml</string>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
+	<key>SUFeedURL</key>
+	<string>http://github.com/hiroshi/Unofficial-Google-Wave-Notifier/raw/master/Sparkle/appcast.xml</string>
+	<key>SUPublicDSAKeyFile</key>
+	<string>dsa_pub.pem</string>
 </dict>
 </plist>

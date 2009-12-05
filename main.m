@@ -289,7 +289,7 @@ enum {
 
 - (IBAction)goToInbox:(id)sender
 {
-    [[NSWorkspace sharedWorkspace] openURL: [NSURL URLWithString: @"https://wave.google.com/wave/"]];
+    [[NSWorkspace sharedWorkspace] openURL: [NSURL URLWithString: @"wave://"]];
 }
 
 - (IBAction)goToWave:(id)sender
