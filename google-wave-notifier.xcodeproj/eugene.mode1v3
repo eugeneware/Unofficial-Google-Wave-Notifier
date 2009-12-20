@@ -279,7 +279,6 @@
 							<array>
 								<array>
 									<integer>23</integer>
-									<integer>22</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
@@ -330,7 +329,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>44552AC610CACF2200E78D0F</string>
+										<string>441F54EC10DDFAE100942A75</string>
 										<key>history</key>
 										<array>
 											<string>4404EEE110CAC9F600AED51D</string>
@@ -338,7 +337,7 @@
 											<string>4404EF1410CACBC100AED51D</string>
 											<string>4404EF1510CACBC100AED51D</string>
 											<string>4440D57810CACD54004968A8</string>
-											<string>4440D57F10CACDBB004968A8</string>
+											<string>44552AC610CACF2200E78D0F</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -350,14 +349,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {567, 404}}</string>
+								<string>{{0, 0}, {567, 397}}</string>
 								<key>RubberWindowFrame</key>
 								<string>138 174 952 644 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>404pt</string>
+							<string>397pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -370,14 +369,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 409}, {567, 194}}</string>
+								<string>{{0, 402}, {567, 201}}</string>
 								<key>RubberWindowFrame</key>
 								<string>138 174 952 644 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>194pt</string>
+							<string>201pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -396,9 +395,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>44552AB910CACF1500E78D0F</string>
+				<string>441F54ED10DDFAE100942A75</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>44552ABA10CACF1500E78D0F</string>
+				<string>441F54EE10DDFAE100942A75</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -536,12 +535,8 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>44552AC410CACF1500E78D0F</string>
-		<string>44552AC510CACF1500E78D0F</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
-		<string>4404EED410CAC8A100AED51D</string>
 		<string>/Users/eugene/Documents/work/Unofficial-Google-Wave-Notifier/google-wave-notifier.xcodeproj</string>
+		<string>4404EED410CAC8A100AED51D</string>
 	</array>
 	<key>WindowString</key>
 	<string>138 174 952 644 0 0 1440 878 </string>
@@ -582,6 +577,8 @@
 							<string>306pt</string>
 						</dict>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -621,7 +618,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>4404EED410CAC8A100AED51D</string>
-				<string>44552ABB10CACF1500E78D0F</string>
+				<string>441F54EF10DDFAE100942A75</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -634,7 +631,7 @@
 			<key>WindowToolGUID</key>
 			<string>4404EED410CAC8A100AED51D</string>
 			<key>WindowToolIsVisible</key>
-			<false/>
+			<true/>
 		</dict>
 		<dict>
 			<key>FirstTimeWindowDisplayed</key>
